@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Arielle-s-page/static/css/main.ac49087e.css",
+    "main.js": "/Arielle-s-page/static/js/main.8c45ca0c.js",
+    "static/media/girl.png": "/Arielle-s-page/static/media/girl.b932eec89f1a7c1b449f.png",
+    "static/media/glassesmoji.png": "/Arielle-s-page/static/media/glassesmoji.a08bdab12e8eb56a6874.png",
+    "static/media/thumbup.png": "/Arielle-s-page/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/crown.png": "/Arielle-s-page/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/vector2.png": "/Arielle-s-page/static/media/vector2.28db5bfd58081dd1df1b.png",
+    "index.html": "/Arielle-s-page/index.html",
+    "main.ac49087e.css.map": "/Arielle-s-page/static/css/main.ac49087e.css.map",
+    "main.8c45ca0c.js.map": "/Arielle-s-page/static/js/main.8c45ca0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac49087e.css",
+    "static/js/main.8c45ca0c.js"
+  ]
+}
