@@ -18,7 +18,7 @@
 }
 .button{
   border-radius: 35px;
-  border: none;
+  border: 1px solid #fdc500;
   color: white;
   font-size: 16px;
   padding: 11px 26px;
@@ -30,4 +30,5 @@
   color: var(--orange);
   cursor: pointer;
   border: 1px solid var(--orange);
+  transition: 0.1ms;
 }
