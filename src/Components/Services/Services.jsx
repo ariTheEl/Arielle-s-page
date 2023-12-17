@@ -18,9 +18,12 @@ const Services = () => {
           Incidunt totam sequi pariatur quidem aperiam commodi quo quam
         </span>
         <a href={resume} download>
-            <button className="button s-button">Download CV</button>
-          </a>
-        <div className="blur s-blur"></div>
+          <button className="button s-button">Download CV</button>
+        </a>
+        <div
+          className="blueblur s-blur1 blur"
+          style={{ background: "#abf1ff94" }}
+        ></div>
       </div>
 
       {/* Right Side */}
@@ -43,9 +46,15 @@ const Services = () => {
           <Card
             emoji={humble}
             heading={"Soft Skills "}
-            detail={"Communication, Team work, Problem solving and Critical thinking"}
+            detail={
+              "Communication, Team work, Problem solving and Critical thinking"
+            }
           />
         </div>
+        <div
+          className="purpleblur s-blur2 blur"
+          style={{ background: "var(--purple)" }}
+        ></div>
       </div>
     </div>
   );
